@@ -1,0 +1,44 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.pic {
+    height: 300px;
+    width: 400px;
+    margin-left: 200px;
+} 
+
+.container {
+    background-color:#1F2937;
+    color: white;
+}
+.header {
+    margin: %;
+    display: flex;
+    gap: 10px
+    
+}
+.yoga {  margin-left: auto;
+    gap: 5px;
+    |
+}.y{ color: white;
+    font-size: 20px;
+    
+    
+}
+.caption {
+    padding: 0px;
+    margin-left: 100px;
+}
+
+.awesome  { display: flex;
+    margin-left: 100px;
+    flex:auto;
+
+}
+.signup {
+    background-color: blue;
+    color: white;
+}
+    
